@@ -1,0 +1,29 @@
+{
+  "name": "google-analytics-event-tracking",
+  "description": "Jquery Filepicker from Google Drive",
+  "authors": [
+    "Stéphane Monnot <monnot.stephane@gmail.com>"
+  ],
+  "main": [
+    "./dist/js/ga-event-tracking.js",
+    "./dist/js/ga-event-tracking.min.js"
+  ],
+  "version": "0.1.0",
+  "keywords": [
+    "Google analytics",
+    "Event Tracking"
+  ],
+  "license": "CC BY-NC-SA 3.0",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "ignore": [
+    "bower_components",
+    "dist/js/lib/",
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/shinbuntu/google-analytics-event-tracking"
+}
